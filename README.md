@@ -16,10 +16,10 @@ To clone and run this application, you will need [Git](https://git-scm.com/), [N
 You will need to run the following commands on your terminal:
 
     # Clone this repository
-    $ git clone https://github.com/ayrtonbsouza/gs-react-concepts
+    $ git clone https://github.com/ayrtonbsouza/gs-mobile-reactnative-concepts-lesson.git
 
     # Go into the repository
-    $ cd gs-react-native-concepts
+    $ cd gs-mobile-reactnative-concepts-lesson
 
     # Install dependencies
     $ yarn install
